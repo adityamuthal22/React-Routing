@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+}
+
+.Navbar{
+  background-color: teal;
+  height: 60px;
+  font-size: 30px;
+  text-align: center;
+}
+.Navbar a{
+  color: white;
+  text-decoration: none;
+}
+.Navbar a:hover{
+  color: crimson;
+}
+body {
+  background: #dedede;
+}
+.page-wrap {
+  min-height: 100vh;
+}
